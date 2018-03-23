@@ -6,6 +6,8 @@ https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm </br>
 https://www.geeksforgeeks.org/sprintf-in-c/ </br>
 https://stackoverflow.com/questions/2566073/how-to-make-c-program-wait-on-linux </br>
 https://stackoverflow.com/questions/7469139/what-is-equivalent-to-getch-getche-in-linux </br>
+https://stackoverflow.com/questions/11169392/c-alarm-clock-loop-issue </br>
+https://gist.github.com/Codeplaza/7326881 </br>
 https://stackoverflow.com/questions/31589464/difference-between-delay-and-sleep-in-c </br>
 https://www.unix.com/programming/143352-playing-sound-file-sdl-c.html </br>
 </br></br>

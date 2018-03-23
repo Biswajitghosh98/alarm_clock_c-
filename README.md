@@ -1,7 +1,7 @@
 # alarm_clock_c-
 It is an alarm clock made in c++ using ctime library
 References:
-https://stackoverflow.com/questions/22901901/what-does-fflushstdin-do-in-c-programing
+https://stackoverflow.com/questions/22901901/what-does-fflushstdin-do-in-c-programing </br>
 https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm
 https://www.geeksforgeeks.org/sprintf-in-c/
 https://stackoverflow.com/questions/2566073/how-to-make-c-program-wait-on-linux

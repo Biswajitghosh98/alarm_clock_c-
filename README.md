@@ -13,4 +13,9 @@ https://www.unix.com/programming/143352-playing-sound-file-sdl-c.html </br>
 </br></br>
 Issues : </br>
 1)I could'nt find an equivalent of \a or \7 to make a bell sound in linux. </br>
-2)I got to know a little about threading and so,an alternate and a more better version of the same program could have been made if the same had been used. It could have freed the terminal space and it would have notified the user whenever the alarm time coincides with the given time, giving space for additional features, like adding date. </br>
+2)I got to know a little about threading and so,an alternate and a more better version of the same program could have been made if the same had been used. It could have freed the terminal space and it would have notified the user whenever the alarm time coincides with the given time, giving space for additional features, like adding date. </br></br>
+STEPS TO RUN THE PROGRAM :</br>
+1. Download makefile, alarm_new.cpp and circle.png and save them in a folder. </br>
+2. Compile the program in the terminal using the command "make alarm_new". </br>
+3. Run the program by typing "./alarm_new" in the terminal after compilation.</br>
+THANK YOU !

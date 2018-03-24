@@ -18,4 +18,6 @@ STEPS TO RUN THE PROGRAM :</br>
 1. Download makefile, alarm_new.cpp and circle.png and save them in a folder. </br>
 2. Compile the program in the terminal using the command "make alarm_new". </br>
 3. Run the program by typing "./alarm_new" in the terminal after compilation.</br>
-THANK YOU !
+4. Also, please install ncurses library if not present already by typing "sudo apt-get install libncurses-dev" in the terminal. </br></br>
+SOME RELATED IMAGES : </br>
+
